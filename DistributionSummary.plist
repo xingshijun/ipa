@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>语祯物联.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B74752587F6CB445F3CD6F3A978308AD71DE0119</string>
+				<key>dateExpires</key>
+				<string>18/12/2020</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6NP7TMSQ24.com.mgmiot.moses3</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6NP7TMSQ24</string>
+			</dict>
+			<key>name</key>
+			<string>语祯物联.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6NP7TMSQ24</string>
+				<key>name</key>
+				<string>MGM-IOT Technology (shanghai)Co.,Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
